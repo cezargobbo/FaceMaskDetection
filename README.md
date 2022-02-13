@@ -1,5 +1,5 @@
 # Face Mask Detection and Classification
-#### Universidade Federal do Espírito Santo - December 2021
+#### Universidade Federal do Espírito Santo - January 2022
 ###### Cezar Augusto Gobbo Passamani
 #
 
