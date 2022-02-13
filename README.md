@@ -1,4 +1,4 @@
-# FaceMaskDetection
+# Face Mask Detection and Classification
 #### Universidade Federal do Espírito Santo - December 2021
 ###### Cezar Augusto Gobbo Passamani
 #
@@ -129,7 +129,7 @@ Save them and extract at repository root level, generating a folder called `net_
 ```sh
 cd FaceMaskDetection
 mkdir build && cd build
-cmake -D CUDA_TOOLKIT_ROOT_DIR=/usr/local/cuda ..
+cmake -D CUDA_TOOLKIT_ROOT_DIR=/usr/local/cuda-10.1 ..
 make
 ```
 #
