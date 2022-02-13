@@ -16,6 +16,8 @@ We built our own dataset gathering images from TV reports made on the streets an
 
 #### Ubuntu 18.04 LTS (64 bit) Instalation Guide
 
+Here you find the dependencies needed to run the project. After the installation, the step by step to run the algorithm comes right after.
+
 ##### Dependencies
 
 Cmake
@@ -55,7 +57,7 @@ cd ~/libraries/
 wget https://developer.nvidia.com/compute/cuda/10.1/Prod/local_installers/cuda_10.1.168_418.67_linux.run
 sudo ./cuda_10.1.168_418.67_linux.run (ps: unmark the nvidia driver option when asked)
 
-echo "#AS1 VARS
+echo "#VARS
 export PATH=$PATH:/usr/local/cuda-10.1/bin\"
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-10.1/lib64\"" >> ~/.bashrc
 
