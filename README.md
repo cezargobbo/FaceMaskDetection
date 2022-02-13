@@ -7,12 +7,11 @@ In this project you are able to detect faces and classify them by wearing masks 
 
 To train the YOLOv4, we built our own dataset gathering images from TV reports made on the streets and from cameras installed in challenging real-world places, where there are many people walking around wearing and not wearing masks with different types of characteristics, such as skin color, lighting variation, faces partially obstructed, and also faces far away from the camera source. We named this new dataset as WildCam, and along with other datasets of faces that we found on the internet, we put together a very robust and diversified database of images. The purpose of this project is to help in the inspection of people who do not comply with the rules stipulated by the World Health Organization. The dataset is free and available at the link below.
 
-// link
+https://drive.google.com/file/d/1MKsVSwdzPncbVKTw2qmdCey3dLbZqK71/view?usp=sharing
 
 #
 ![frame_1](https://user-images.githubusercontent.com/24278584/153736631-10ff71b2-6c8c-4483-bcfd-4bdb7d344adc.jpg)
 #
-
 
 #### Ubuntu 18.04 LTS (64 bit) Instalation Guide
 
