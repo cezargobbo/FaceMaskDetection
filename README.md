@@ -5,7 +5,7 @@
 
 In this project you are able to detect faces and classify them by wearing masks or not, using a video as input. Also, the algorithm will calculate in real time the COVID-19 contamnination risk, based on the number of unmasked faces in the video.
 
-We built our own dataset gathering images from TV reports made on the streets and from cameras installed in challenging real-world places, containing many people walking around wearing and not wearing masks with different types of characteristics, such as skin color, lighting variation, faces partially obstructed, and also faces far away from the camera source. We named this new dataset as WildCam, and along with other dataset of faces that we found on the internet, we put together a very robust and diversified database of images. The purpose of this project is to help in the inspection of people who do not comply with the rules stipulated by the World Health Organization. The dataset is free and available at the link below.
+We built our own dataset gathering images from TV reports made on the streets and from cameras installed in challenging real-world places, where there are many people walking around wearing and not wearing masks with different types of characteristics, such as skin color, lighting variation, faces partially obstructed, and also faces far away from the camera source. We named this new dataset as WildCam, and along with other dataset of faces that we found on the internet, we put together a very robust and diversified database of images. The purpose of this project is to help in the inspection of people who do not comply with the rules stipulated by the World Health Organization. The dataset is free and available at the link below.
 
 // link
 
