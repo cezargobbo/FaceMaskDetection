@@ -127,7 +127,7 @@ Download the network models at https://drive.google.com/file/d/1pvdUjThZJQUqpd5t
 Save them and extract at repository root level, generating a folder called `net_models` automatically.
 
 ```sh
-cd mask_detection_ia_ufes_cv
+cd FaceMaskDetection
 mkdir build && cd build
 cmake -D CUDA_TOOLKIT_ROOT_DIR=/usr/local/cuda ..
 make
