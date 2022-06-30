@@ -153,7 +153,7 @@ Usage: ./mask_detection [--camera CAMERA] [--file FILE] [--path PATH] [--thresho
 ```
 ./mask_detection -p /path/to/videos/ -t 0.25
 ```
-`[--width WIDTH] [--height HEIGHT]` means the width and the height of the cam or video you are passing as an argument. To set it, just pass the values as arguments using `-w` and `-h`. It's highly recommended to use values according to your machine. If you have a high-end machine its okay to set FullHD or HD, otherwise you can try (640,360) Example:
+`[--width WIDTH] [--height HEIGHT]` means the width and the height of the cam or video you are passing as an argument. To set it, just pass the values as arguments using `-w` and `-h`. It's highly recommended to use values according to your machine. If you have a high-end machine its okay to set FullHD or HD, otherwise you can try (640,360). Example:
 ```
 ./mask_detection -p /path/to/videos/ -w 640 -h 360
 ```
