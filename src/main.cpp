@@ -157,6 +157,5 @@ int main(int argc, const char **argv)
             process_video(video_files[i], &faces_detector, detection_off, width, height);
         }
     }
-
     return 0;
 }
