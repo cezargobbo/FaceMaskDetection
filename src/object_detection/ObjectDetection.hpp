@@ -35,7 +35,6 @@ class ObjectDetection {
     char *name_list;
     char **names;
     bool sliding_window;
-
     network *net;
     int nclasses;
     detection *dets;
