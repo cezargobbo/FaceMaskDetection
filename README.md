@@ -7,7 +7,7 @@ In this project you are able to detect faces and classify them by wearing masks 
 
 To train the YOLOv4, we built our own dataset gathering images from TV reports made on the streets and from cameras installed in challenging real-world places, where there are many people walking around wearing and not wearing masks with different types of characteristics, such as skin color, lighting variation, faces partially obstructed, and also faces far away from the camera source. We named this new dataset as WildCam, and along with other datasets of faces that we found on the internet, we put together a very robust and diversified database of images. The purpose of this project is to help with the rules stipulated by the World Health Organization. The dataset is free and available at the link below.
 
-https://drive.google.com/file/d/1xVSzL9M2mcKYiq_KO0SMJydKnbiZKzJc/view?usp=sharing
+[Dataset Download Link](https://drive.google.com/file/d/1i5sX3JSeUCPZM7RWD1b3awAHvdMtkKvt/view?usp=drive_link)
 
 #
 ![frame_1](https://user-images.githubusercontent.com/24278584/153736631-10ff71b2-6c8c-4483-bcfd-4bdb7d344adc.jpg)
@@ -123,7 +123,7 @@ Now go the Mask Detection project root folder and create a directory named `lib/
 #
 ##### Building Project
 
-Download the network models at https://drive.google.com/file/d/1pvdUjThZJQUqpd5tNPwdE-LX2v7N45FH/view?usp=sharing.
+Download the network models at [Model Link](https://drive.google.com/file/d/1QzhfkgSgzOe7Yg-S6lA1ow_YPyaAYlwA/view?usp=drive_link)
 Save them and extract at repository root level, generating a folder called `net_models` automatically.
 
 ```sh
