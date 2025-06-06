@@ -124,7 +124,7 @@ Now go the Mask Detection project root folder and create a directory named `lib/
 ##### Building Project
 
 Download the network models at [Model Link](https://drive.google.com/file/d/1QzhfkgSgzOe7Yg-S6lA1ow_YPyaAYlwA/view?usp=drive_link), 
-Save them and extract at repository root level, generating a folder called `net_models` automatically.
+save it at the repository root level and extract it there. This will generate a folder called `net_models` automatically. Then, you can delete net_model.tar.gz.
 
 ```sh
 cd FaceMaskDetection
